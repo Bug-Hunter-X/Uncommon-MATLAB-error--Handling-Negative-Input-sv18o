@@ -1,0 +1,3 @@
+# Uncommon MATLAB Error: Handling Negative Input
+
+This repository demonstrates an example of a less common error in MATLAB that can occur when functions don't handle edge cases or input validation properly. The function `myFunction` throws a generic error message if the input is negative.  The goal is to improve the error handling for better debugging and more informative error messages.  The solution will improve the error message, and add more robust input validation.
